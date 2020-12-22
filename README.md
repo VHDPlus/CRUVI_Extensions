@@ -27,7 +27,7 @@
 ### In Development
 
 ### Ideas
--With Cyclone V SoC like DE10-Nano
+- With Cyclone V SoC like DE10-Nano
 
 # CRUVI Shield
 ### Finished
