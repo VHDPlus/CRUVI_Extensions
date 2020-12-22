@@ -5,7 +5,7 @@
 ### In Development
 - SDRAM (W9864G6JT-6 like on the Core)
 - 2x Ethernet 10/100 Mbit
-- Mikrocontroller (>200MHz, HS and LS connector on top -> stackable)
+- Mikrocontroller (Same as TEENSY 4.0, HS and LS connector on top -> stackable)
 ### Ideas
 
 ## LS Extensions
