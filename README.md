@@ -10,6 +10,10 @@
 - Microcontroller (Same as TEENSY 4.0, HS and LS connector on top -> stackable)
 ![Processor](processor.jpg)
 ### Ideas
+- Gigabit Ethernet
+- PCIe
+- M.2 SSD socket
+- USB C Thunderbold 3/4 controller
 
 ## LS Extensions
 ### Finished
@@ -21,7 +25,21 @@
 ### Ideas
 - MOSFET Power Switch
 - EEPROM
-- Gyroscope
+- CAN
+- Gyroscope/Accelerometer
+- Compass
+- Bluetooth
+- ESP32/WLAN
+- RFID
+- NFC
+- GPS
+- Stepper Motor Driver
+- Servo connnection
+- Real Time Clock
+- IR receiver/emitter
+- Temperature/Humidity/Gas
+- MEMS Microphone
+- SD card
 
 # CRUVI Development Boards
 ### Finished
@@ -30,7 +48,7 @@
 ### In Development
 
 ### Ideas
-- With Cyclone V SoC like DE10-Nano
+- With Cyclone V SoC like DE10-Nano 
 
 # CRUVI Shield
 ### Finished
