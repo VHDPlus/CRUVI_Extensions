@@ -14,6 +14,7 @@
 - PCIe
 - M.2 SSD socket
 - USB C Thunderbold 3/4 controller
+- DDR 3 RAM
 
 ## LS Extensions
 ### Finished
